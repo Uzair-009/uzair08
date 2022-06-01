@@ -1,3 +1,3 @@
 import mehar 
  
-  Subscraption()  
+  Main()
